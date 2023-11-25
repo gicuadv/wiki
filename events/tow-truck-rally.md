@@ -24,6 +24,7 @@ Pentru mai multe detalii legate de acest job poţi accesa [Tow Truck Driver - in
 Când este activ evenimentul **NU** are o limită de repetări.<br>
 Ai nevoie de minim level 5 pentru acest job şi pentru a participa la eveniment.<br>
 Tow Truck Rally Crate **este tradable**.<br>
+Sansa de a primi un Hypercar **20%** ce ofera castiguri majorate cu **25%**.<br>
 :::
 
 
