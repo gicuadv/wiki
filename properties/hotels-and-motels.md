@@ -24,7 +24,7 @@ Fiecare **Hotel** are un număr aproximativ de peste **50 de camere**.
 
 | Iconiță specifică | Număr total | Zone geografice | Preț / zi |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/zGPYlER.png" alt="Hotel" width="30" label="Hotel" /> | 4  |  [**West Vinewood**](https://i.imgur.com/i9ckVOL.png) (1) <br> [**Richard Majestic**](https://i.imgur.com/wNd6dzR.png) (1) <br> [**Pillbox Hill**](https://i.imgur.com/uqo0n5E.png) (2) |  <Dinero :amount="150" /> |
+| <Image src="https://i.imgur.com/zGPYlER.png" alt="Hotel" width="30" label="Hotel" /> | 4  |  [**West Vinewood**](https://i.imgur.com/i9ckVOL.png) (1) <br> [**Richard Majestic**](https://i.imgur.com/wNd6dzR.png) (1) <br> [**Pillbox Hill**](https://i.imgur.com/uqo0n5E.png) (2) |  <Dinero :amount="300" /> |
 
 ## Moteluri
 
@@ -32,7 +32,7 @@ Fiecare **Motel** are doar **o singură cameră** (de aceea sunt 55 la număr).
 
 | Iconiță specifică | Număr total | Zone geografice | Preț / zi |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/PB9PgvF.png" alt="Motel" width="30" label="Motel" /> | 55  |  [**Rancho**](https://i.imgur.com/KAgrDXa.png) (15) <br> [**Del Perro**](https://i.imgur.com/kAgZGLW.png) (9) <br> [**Alta**](https://i.imgur.com/loalFLO.png) (14) <br> [**East Vinewood**](https://i.imgur.com/kKKEAIg.png) (5) <br> [**Paleto Bay**](https://i.imgur.com/pGUSuWX.png) (12) | <Dinero :amount="75" /> | 
+| <Image src="https://i.imgur.com/PB9PgvF.png" alt="Motel" width="30" label="Motel" /> | 55  |  [**Rancho**](https://i.imgur.com/KAgrDXa.png) (15) <br> [**Del Perro**](https://i.imgur.com/kAgZGLW.png) (9) <br> [**Alta**](https://i.imgur.com/loalFLO.png) (14) <br> [**East Vinewood**](https://i.imgur.com/kKKEAIg.png) (5) <br> [**Paleto Bay**](https://i.imgur.com/pGUSuWX.png) (12) | <Dinero :amount="150" /> | 
 
 ::: tip
 Disponibilitatea unui **Motel** este redată de culoarea verde a iconiței de pe harta din joc. 
