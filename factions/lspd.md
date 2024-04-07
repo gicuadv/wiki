@@ -33,7 +33,12 @@ Atasamentele pe toate armele sunt disponibile incepand cu **rank 3**.
 <Image src="https://i.imgur.com/gUHhZlR.png" alt="Shotgun" width="100" label="Shotgun" />
 
 
-**Pistolul radar** are scopul de a surprinde șoferii ce conduc fără licență sau cu viteză, iar **tazer-ul** de a imobiliza individul în cauză.
+**Pistolul radar** are scopul de a surprinde șoferii ce conduc cu viteză, iar **tazer-ul** de a imobiliza individul în cauză.
+
+::: warning Atenție!
+Șoferii ce vor fi surprinși cu viteza mai mare decât limita legală vor fi sancționați cu amendă. Amenda se calcuzeaza astfel: <Dinero :amount="30" /> pentru fiecare km în plus fată de limita de viteză.
+:::
+
 ::: details Interfață radar  
 <Image src="https://i.imgur.com/atYt6Yd.png" alt="radar1" />
 :::
